@@ -10,6 +10,8 @@ or not. This relies on finding the altitude angle of the sun, as well the azimut
 }
 
 
+
+
 **Perquisites:**
 
 * Software
