@@ -1,6 +1,7 @@
 # glare_RESTAPI
 
-**Description**
+**Description:**
+
 This is a REST API created in Flask that takes in an image's metadata and determines if there is a possibility of direct glare in the associated image 
 or not. This relies on finding the altitude angle of the sun, as well the azimuthal angle difference between the sun and the direction of a forward facing camera mounted on a car. The API returns a JSON object of the form:
 
@@ -19,6 +20,8 @@ or not. This relies on finding the altitude angle of the sun, as well the azimut
   * pysolar
   * timezonefinder
   * pytz
+
+
 
 
 **Usage:**
