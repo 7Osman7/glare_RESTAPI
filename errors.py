@@ -1,4 +1,3 @@
-
 import flask
 from flask import jsonify
 blueprint = flask.Blueprint('errors', __name__)
